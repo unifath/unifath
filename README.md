@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unifath
-- 👀 I’m interested in qa engineer
+- 👀 I’m interested in qa automation
 - 🌱 I’m currently learning selenium 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me fathiahesty@gmail.com
 
 <!---
